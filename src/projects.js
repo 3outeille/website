@@ -12,6 +12,7 @@ export default {
       '3outeille/Research-Paper-Summary',
       '3outeille/Yaae',
       '3outeille/CNNumpy',
+      '3outeille/GANumpy',
       'MachineLearnia/MachineLearning-tutorial',
       'Maximellerbach/AutonomousCar',
       'kkuette/TradzQAI',
